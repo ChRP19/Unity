@@ -1,2 +1,2 @@
 # Unity
-Unity projects
+Unity projects from training materials
